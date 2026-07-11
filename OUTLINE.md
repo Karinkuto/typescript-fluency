@@ -1,6 +1,6 @@
 # Outline: TypeScript Implementation Fluency
 
-> **Last updated:** 2026-07-09 (Thu) — ~3 weeks into the project.
+> **Last updated:** 2026-07-11 (Sat) — ~3 weeks into the project.
 > Time tracking: every session in `NOTES.md` is stamped `### YYYY-MM-DD — Session N`.
 
 Two sequential scopes built from the two reference books. **Scope 1** is the
@@ -98,9 +98,9 @@ decorators, framework patterns, backend/arch, complex async) — now in scope.
 ---
 
 ## Progress marker
-- **As of 2026-07-09:** ~3 weeks elapsed. Fluency Sets A–E done; TT Ch 4✅ 5✅ 6🔶.
-- Now: **TT Ch 6 → Exercise 6-5 (Record with literal keys)**, then **Ch 7 (Mutability)**
+- **As of 2026-07-11:** ~3 weeks elapsed. Fluency Sets A–E done; TT Ch 4✅ 5✅ 6✅. TypeScript 7.0.2.
+- Now: **TT Ch 7 (Mutability)** next.
 - Fluency: continuous (Sets A–E complete)
-- Scope 1 book chapters remaining: 6 (partial), 7, 8, 11, 12, 13, 14
+- Scope 1 book chapters remaining: 7, 8, 11, 12, 13, 14
 - Scope 1 ET parts: 1, 2, 3, 4, 5, 7 (selective items)
 - **Worst-case ETA from today:** Scope 1 ~late Aug 2026, Scope 2 ~late Sep 2026 (~10 weeks total).
